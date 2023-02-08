@@ -1,0 +1,9 @@
+* Depth-First Search Recursive Backtracking Maze Generator
+- Based off the Maze Generator video from the [[https://www.youtube.com/watch?v=HyK_Q5rrcr4][Coding Train]]
+- Uses the [[https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API][Canvas API]] instead of [[https://p5js.org/][p5.js]] to draw to the screen
+- [[https://codepen.io/captain-chen/pen/wEavKo][Live Demo]] (CodePen)
+* How to run
+1. Clone the project somewhere. \\
+   =git clone https://www.github.com/captain-chen/dfs-maze-generator.git=
+2. Open index.html in your browser.
+3. Watch it go.
